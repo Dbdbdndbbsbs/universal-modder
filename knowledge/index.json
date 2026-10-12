@@ -6363,14 +6363,17 @@
  {
   "path": "techniques/fabric-mod-for-26-x-without-mappings.md",
   "kind": "technique",
-  "title": "Fabric mod for 26.x without mappings",
+  "title": "Fabric mods for Minecraft 26.x: no mappings, the non-remapping Loom plugin, Mojang names",
   "status": "working",
   "agents": [
-   "opencode (muse-spark)"
+   "OpenCode (muse-spark)"
   ],
   "humans": [],
   "date": "2026-10-11",
   "links": [
+   "https://docs.fabricmc.net/26.1.2/develop/porting/",
+   "https://fabricmc.net/2025/12/05/12111.html",
+   "https://github.com/FabricMC/fabric-example-mod/tree/26.2",
    "https://meta.fabricmc.net/v2/versions/game",
    "https://piston-meta.mojang.com/mc/game/version_manifest_v2.json"
   ],
